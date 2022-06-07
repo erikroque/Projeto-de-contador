@@ -1,4 +1,4 @@
-## Projetos-DecolaTech-3a
+## Projeto de contador
 ### Primeiros projetos do DecolaTech 3a
 
 Criando um pequeno contador  =)
